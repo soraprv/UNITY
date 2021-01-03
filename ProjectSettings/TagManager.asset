@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - tramp
+  - Box
+  - Spike
+  - KeyTouch
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Player
+  - Dangerous
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 476142093
+    locked: 0
+  - name: BFBG
+    uniqueID: 2693729039
+    locked: 0
+  - name: Platform
+    uniqueID: 2783389743
+    locked: 0
+  - name: Object
+    uniqueID: 3454530943
+    locked: 0
+  - name: Monster
+    uniqueID: 3605650339
+    locked: 0
+  - name: Player
+    uniqueID: 685583645
+    locked: 0
+  - name: Forground
+    uniqueID: 1953758745
+    locked: 0
+  - name: Blindscene
+    uniqueID: 3959364111
+    locked: 0
